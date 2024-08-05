@@ -1,5 +1,8 @@
 # ReShop Website
 
+## About ReShop Website
+ReShop is a project for COMP 3350 where we created an android app in a group. It allows people to sell, browse, and purchase quality second-hand clothing from other people. This repository is for ReShop's website, which talks about our project overview, contributors, and postmortem. 
+
 ## How to run
 1. Download everything in this repository.
 2. Open this project in WebStorm or some similar IDE that's capable of running websites.
