@@ -20,3 +20,6 @@ ReShop is an android app that allows people to sell, browse, and purchase qualit
 - View sold and bought items on account page 
 
 ## View a demo of our app here
+<video width="1080" height="1350" controls>
+    <source src="/reshopDemo.mp4" type="video/mp4">
+</video>
