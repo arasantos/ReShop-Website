@@ -5,7 +5,7 @@ permalink: /postmortem/
 ---
 
 ### What did we learn about team or large project development?
-  - **Communication:** Working on a project with other people requires good and consistent communication. We needed to keep each other on the loop about which tasks are taken, and which tasks need to be taken. We also asked each other for help whenever we struggled with something in our task or misunderstand a code that someone else made. Whenever we needed help, we made it known to the group as not doing so can affect future tasks that rely on the task at hand.
+  - **Communication:** Working on a project with other people requires good and consistent communication. We needed to keep each other on the loop about which tasks are taken, and which tasks need to be taken. We also asked each other for help whenever we struggled with something in our task or misunderstood a code that someone else made. Whenever we needed help, we made it known to the group as not doing so can affect future tasks that rely on the task at hand.
   - **Retro Meetings:** We also held retro meetings to discuss the things that went well and the things that didn't for the last iteration. This allowed us to think of ways to improve our code and team!
   - **Code Reviews:** It's important to have another pair of eyes that will look over our code before merging it to our develop branch. This way, we can prevent as many mistakes as possible from getting merged.
   - **3-tier Architecture:** Having separate layers for our presentation, logic, and data made our code organized and easy to understand. This also made it easy to maintain and add changes to.
