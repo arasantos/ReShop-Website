@@ -26,8 +26,8 @@ permalink: /about-us/
 ### Han Sun
 - Gained Development Skills:
   - Creating a database using HSQLDB
-  - Designing user interfaces for android devices
-  - Writing unit and integration tests
+  - General android development
+  - Identifying and fixing bugs
 
 ### Dhvani Thakkar
 - Gained Development Skills:
