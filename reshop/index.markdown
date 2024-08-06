@@ -11,7 +11,7 @@ ReShop is an android app that allows people to sell, browse, and purchase qualit
 ## Major Functionalities
 - Create an account
 - Sign in to a created account
-- View your account
+- View and edit your account
 - Browse and search for items to buy
 - Filter or sort search results
 - View an item's information
