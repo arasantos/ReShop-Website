@@ -12,17 +12,16 @@ permalink: /about-us/
 
 ### Jordon Hong
 - Gained Development Skills:
-  - Designing user interfaces for android devices
-  - Coding using good practices, like refactoring to reduce duplicate code and increase readability and maintainability
-  - Writing unit tests
-  - Creating builders, singletons, etc.
+  - Project management such as creating issues, developer tasks, reviewing merge requests etc
+  - Android development
+  - Full stack development
 
 ### Ara Nicole Santos
 - Gained Development Skills:
   - Designing user interfaces for android devices
   - Coding using good practices, like refactoring to reduce duplicate code and increase readability and maintainability
-  - Learning to use a bit about jekyll websites 
-  - Writing unit and system tests
+  - Learning about jekyll to create this static website
+  - Writing system tests
 
 ### Han Sun
 - Gained Development Skills:
